@@ -1,7 +1,6 @@
 {
   "name": "biblioteca-backend",
   "version": "1.0.0",
-  "description": "Sistema de gestión de biblioteca",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
